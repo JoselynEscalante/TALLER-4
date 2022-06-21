@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+.Escalante{
+	color: #F5080C;
+	font-family: berkshire-swash;
+	font-style: normal;
+	font-weight: 400;
+	text-shadow: 1px 1px #EEFC02;
+	text-align: center;
+}
+.Subtitulos{
+	color: #C509EE;
+	font-family: lobster;
+	font-style: normal;
+	font-weight: 400;
+	text-align: left;
+	text-shadow: 2px 2px #C3E313;
+}
+
+.Estructura{
+	color: #6909F0;
+	font-family: alfa-slab-one;
+	font-style: normal;
+	font-weight: 400;
+	text-align: left;
+	text-shadow: 1px 1px #E4E30E;
+}
+p{
+	color: #081B8E;
+	font-family: abril-fatface;
+	font-style: normal;
+	font-weight: 400;
+	text-align: left;
+	font-size: medium;
+}
+
